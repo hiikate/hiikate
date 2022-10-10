@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kate
-- 👀 I’m interested in books, plants, yoga, and learning new languages
-- 🌱 I’m currently learning fast.ai Deep Learning and data analytics courses
-- 💞️ I’m looking to collaborate on Deep Learning and Machine Learning projects
-- 📫 How to reach me 
+- 👋 Hi, I’m Kate Tran
+- 👀 I’m interested in books, plants, yoga, top roping, and learning new languages
+- 🌱 I’m currently learning fast.ai Deep Learning and data analytics 
+- 💞️ I’m looking to collaborate on Deep Learning and Machine Learning projects 
+- 📫 How to reach me @ katetrangtran@gmail.com
 
 <!---
 hiikate/hiikate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
