@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Kate Tran
-- 👀 I’m interested in Books (current reading The Overstory by Richard Powers), Top Rope Climbing, Tennis, Yoga, and Community Building (member of Effective Altruism and Giving What We Can)
-- 🌱 I’m currently learning fast.ai Deep Learning and data analytics in Python and R
-- 💞️ I’m looking to collaborate on Deep Learning and Machine Learning projects 
-- 📫 How to reach me @ katetrangtran@gmail.com
+👩🏻‍💻 Hi, I’m Kate Tran
+🧠 Passionate about AI Governance and Policy research. My current work involve in safe development and deployment AI standards case studies. 
+🌐 I'm an active EA member, pledged donor to Giving What We Can, and the AI Safety member.
+🫱🏼‍🫲🏽 https://www.linkedin.com/in/katetran23/
 
 <!---
 hiikate/hiikate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
