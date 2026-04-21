@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on writing research on AI safety standards, model evaluations, and deceptive AI patterns
 - 🤔 I’m looking for help with model evaluations systems
 - 📫 How to reach me: https://www.linkedin.com/in/katetran23/
-- 😄 Pronouns: She/Her
 -->
