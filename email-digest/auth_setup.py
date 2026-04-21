@@ -21,7 +21,8 @@ def main():
         return
 
     flow = InstalledAppFlow.from_client_secrets_file(CREDENTIALS_PATH, SCOPES)
-    creds = flow.run_local_server(port=0)
+    print("Opening authorization URL — paste it in your browser:")
+    creds = flow.run_local_server(port=8080, open_browser=False)
 
     with open(TOKEN_PATH, "w") as f:
         f.write(creds.to_json())
