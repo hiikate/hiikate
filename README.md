@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm building something pretty fun
+# building something great
 
 <!--
 **hiikate/hiikate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
